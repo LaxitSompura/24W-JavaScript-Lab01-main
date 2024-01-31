@@ -10,9 +10,9 @@ var story = document.querySelector('.story');
 var storyText = 'It was 94 fahrenheit outside, so :insertx: went for a walk. When they got to :inserty:, they stared in horror for a few moments, then :insertz:. Bob saw the whole thing, but he was not surprised — :insertx: weighs 300 pounds, and it was a hot day.';
 
 // STEP 4: Create three arrays, insertX, insertY, and insertZ
-var insertX = ['Captain MArvel', 'Captain America', 'Iron Man'];
-var insertY = ['Earth343', 'Sakar', 'Moon'];
-var insertZ = ['Flew Away', 'Blasted', 'Stringify'];
+var insertX = ['Donald Trump', 'Jackie Chan', 'Santa'];
+var insertY = ['Area 51', 'Death Valley', 'Aruba'];
+var insertZ = ['Spontaneously cumbusted', 'Rapidly sublimated', 'Evaporated instantly'];
 
 // FUNCTIONS
 
